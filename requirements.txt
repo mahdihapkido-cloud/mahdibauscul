@@ -1,0 +1,29 @@
+# کتابخانه‌های اصلی
+opencv-python>=4.5.0
+PyQt6>=6.0
+openpyxl>=3.0.0
+reportlab>=3.6.0
+Pillow>=9.0.0
+python-dateutil>=2.8.0
+
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+
+# برای پخش صداهای رابط کاربری (mp3) - معمولا همراه PyQt6 نصب می‌شود؛
+# اگر نصب نشد جداگانه بگذارید: pip install PyQt6-QtMultimedia
+
+# ارتباط برنامه با Arduino از طریق USB/Serial
+pyserial>=3.5
+
+numpy>=1.24.0
+
+# مدل YOLOv8 برای خواندن وزن باسکول
+ultralytics>=8.0.0
+
+# OCR وزن نمایشگر
+easyocr>=1.7.0
+# گفتار فارسی
+gTTS>=2.3.0
+
+# گفتار فارسی (پیشنهادی)
+edge-tts>=6.1.0

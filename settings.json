@@ -1,0 +1,37 @@
+{
+  "plate_camera": 2,
+  "scale_camera": 0,
+  "face_camera": 1,
+  "plate_camera_url": "192.168.1.145",
+  "scale_camera_url": "",
+  "face_camera_url": "",
+  "plate_camera_mode": "usb",
+  "scale_camera_mode": "usb",
+  "face_camera_mode": "usb",
+  "rois": {
+    "0": [
+      0.4105011933174224,
+      0.24152542372881355,
+      0.7159904534606205,
+      0.5720338983050848
+    ]
+  },
+  "trigger_role": "scale",
+  "trigger_rois": {
+    "0": [
+      0.4816955684007707,
+      0.2979452054794521,
+      0.8882466281310212,
+      0.5753424657534246
+    ]
+  },
+  "background_path": "",
+  "audio_gate_threshold": 55.0,
+  "weight_pricing": [
+    {
+      "min_weight": 12222222,
+      "max_weight": 555555555,
+      "price": 0
+    }
+  ]
+}
